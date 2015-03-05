@@ -1,0 +1,6 @@
+.sass-cache/
+node_modules/
+public/vendors/
+public/css/app.min.css
+public/css/app.min.css.map
+public/js/app.min.js

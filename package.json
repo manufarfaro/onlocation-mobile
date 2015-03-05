@@ -1,0 +1,31 @@
+{
+  "name": "onlocation-mobile",
+  "version": "0.1.0",
+  "description": "Aplicacion movil onlocation",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manufarfaro/onlocation-mobile.git"
+  },
+  "keywords": [
+    "onlocation"
+  ],
+  "author": "blas moyano <blasmoyano@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manufarfaro/onlocation-mobile/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "sass": "~0.5.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-sass": "~0.18.0",
+    "grunt-contrib-copy": "~0.8.0",
+    "grunt-contrib-uglify": "~0.8.0",
+    "grunt-contrib-jshint": "~0.11.0",
+    "grunt-contrib-sass": "~0.9.2"
+  }
+}
