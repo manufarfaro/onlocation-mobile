@@ -12,10 +12,11 @@ module.exports = function(grunt) {
       target: {
         files: {
           'public/js/app.min.js': [
-          'public/vendor/jquery/dist/jquery.js',
-          'public/vendor/bootstrap-sass-official/assets/javascripts/bootstrap.min.js',
+          'public/vendors/jquery/dist/jquery.js',
+          'public/vendors/bootstrap-sass/assets/javascripts/bootstrap.js',
           'public/vendors/slick.js/slick/slick.js',
-          'public/js/main.js'
+          'public/vendors/owl.carousel/dist/owl.carousel.js',
+          'public/js/main.app.js'
           ]
         }
       }
